@@ -1,4 +1,4 @@
-# Project 3 Starter
+# NCBI Portal
 
 ## Getting Started
 
